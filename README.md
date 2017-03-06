@@ -20,4 +20,4 @@ Add it to your GM script with:
 
     GM_SuperValue.runTestCases  (bUseConsole);
 
-Here is the original script page for [reference](userscripts-mirror.org/scripts/show/107941)
+Here is the original script page for [reference](http://userscripts-mirror.org/scripts/show/107941).
