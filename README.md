@@ -19,3 +19,5 @@ Add it to your GM script with:
 **Test mode:**
 
     GM_SuperValue.runTestCases  (bUseConsole);
+
+Here is the original script page for [reference](userscripts-mirror.org/scripts/show/107941)
